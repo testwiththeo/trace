@@ -80,7 +80,9 @@ lint-baseline.xml
 # Markdown documentation (except README)
 *.md
 !README.md
-!COMMIT_GUIDE.md
+
+# Kiro IDE
+.kiro/
 
 # Mac
 .DS_Store

@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="docs/images/Trace.png" alt="Trace Logo" width="120" />
   <h1 align="center">Trace</h1>
   <p align="center">
     <strong>Android Traffic Interceptor for Developers</strong>
